@@ -1676,7 +1676,7 @@ __metadata:
     ufo: ^0.8.5
     unbuild: latest
     unimport: ^0.4.4
-    vite: ^2.9.14
+    vite: ^5.4.20
   languageName: unknown
   linkType: soft
 
@@ -1794,7 +1794,7 @@ __metadata:
     ufo: ^0.8.5
     unbuild: latest
     unplugin: ^0.7.1
-    vite: ^2.9.14
+    vite: ^5.4.20
     vite-node: ^0.17.1
     vite-plugin-checker: ^0.4.8
     vue: 3.2.37
